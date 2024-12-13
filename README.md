@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: My journey began with coding challenges and personal projects, gradually honing my skills in languages like Java, C++, Python, and JavaScript.<br><br>📚 I'm currently learning: Deepening my expertise in full-stack web development with React, Node.js, and MongoDB, while also exploring the realms of AI and deep learning.<br><br>🎯 Goals: To create impactful web applications and innovative AI solutions, contribute to exciting projects like my Crypto Tracker website, and continuously improve my problem-solving skills.<br><br>🎲 Fun fact: I’m an avid basketball player and recently won first prize in an inter-college tournament!</p>
+<p align="left">✨ Creating bugs since: My journey began with coding challenges and personal projects, gradually honing my skills in languages like Java, C++, Python, and JavaScript.<br><br>📚 I'm currently learning: Deepening my expertise in full-stack web development and Data Analyst with React, Node.js, and MongoDB, while also exploring the realms of AI and deep learning with learing  Cloud Computing.<br><br>🎯 Goals: To create impactful web applications and innovative AI solutions, contribute to exciting projects like my Crypto Tracker website, and continuously improve my problem-solving skills.<br><br>🎲 Fun fact: I’m an avid basketball player and recently won first prize in an inter-college tournament!</p>
 
 ###
 
